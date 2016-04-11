@@ -5,7 +5,7 @@
   "public": "../public/",
   "auth": {
     "token": {
-      "secret": "kUYWuHQgBoIGeS1Qu81LVpytOPYfPBGEzrZkkdODuM7SaQvERbm+7FIt+6Z6ud5bFBK+a9m3p8JigvGBxOC4KQ=="
+      "secret": "3/1UcVPlbfxHOPUbBNQuB3PRyLw78iwf9gUsuoPxcnYILUmLv/ec4KwvDRx9NRa0ta6jb0SAVg+gO5tmUV3sQA=="
     },
     "local": {}
   }
